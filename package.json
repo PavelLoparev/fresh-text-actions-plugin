@@ -7,6 +7,6 @@
   "author": "Pavel Loparev",
   "license": "MIT",
   "fresh": {
-    "main": "plugin.ts"
+    "entry": "plugin.ts"
   }
 }
