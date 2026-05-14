@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sinelaw/fresh/main/crates/fresh-editor/plugins/schemas/package.schema.json",
+  "name": "fresh-text-actions-plugin",
+  "version": "0.1.0",
+  "description": "Adds text encode, decode and transform actions for developers",
+  "type": "plugin",
+  "author": "Pavel Loparev",
+  "license": "MIT",
+  "fresh": {
+    "main": "plugin.ts"
+  }
+}
